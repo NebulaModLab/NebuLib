@@ -1,4 +1,4 @@
-package com.purplenebula.api.util;
+package com.purplenebula.nebulib.util;
 
 
 /**
@@ -6,7 +6,7 @@ package com.purplenebula.api.util;
  *
  * Copyright 2024 NebulaModLab
  */
-public class NebulaeTypes {
+public class NebulaTypes {
     /**
      * Nebulae
      */

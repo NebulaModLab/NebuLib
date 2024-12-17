@@ -1,4 +1,4 @@
-package com.purplenebula.api.util.func;
+package com.purplenebula.nebulib.util.func;
 
 import java.util.List;
 

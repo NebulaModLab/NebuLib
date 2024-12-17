@@ -1,4 +1,4 @@
-package com.purplenebula.api.util;
+package com.purplenebula.nebulib.util;
 
 /**
  * @author Purple Nebula (NebulaModLab)

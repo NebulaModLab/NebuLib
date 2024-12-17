@@ -1,4 +1,5 @@
-package com.purplenebula.api.util;
+package com.purplenebula.nebulib.util;
+
 
 public class GraphicCats {
 

@@ -202,7 +202,7 @@ public class SystemGeneratorLibExamples {
     // ╔═════════════════════════════════╗
     // ║ Instead of manually typing the  ║
     // ║ desired nebula type's ID, you   ║
-    // ║ call the "NebulaeTypes" class   ║
+    // ║ call the "NebulaTypes" class   ║
     // ║ and search for the nebula type  ║
     // ║ you wish to use.                ║
     // ║                                 ║
