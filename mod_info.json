@@ -3,7 +3,7 @@
     "name":"NebuLib",
     "author":"Purple Nebula",
     "utility":"true",
-    "version":"v1.1.0",
+    "version":"v1.1.1",
     "description":"Collection of QOL classes to help in modding the game. Not a mod in itself, however required for all my other mods.",
     "gameVersion": "0.97a-RC11",
     "jars":["jars/NebuLib.jar"]
