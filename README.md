@@ -27,11 +27,12 @@ More info is in the forum post, but current features:
                "planet1",              // Planet ID
                star,                   // What does the object orbit?
                "Planet 1",             // Planet Name
-               PlanetTypes.GAS_GIANT,  // <<<<<<<< The PlanetTypes Example [ THIS MOD ]
+               PlanetTypes.GAS_GIANT,  // <<<<<<<< The PlanetTypes Example [ NebuLib ]
                0,                      // Angle
                229,                    // Radius
                18000,                  // Orbit Radius
                310                     // Orbit Days
             );
 
+4. [ProgressBarComponent] A customizable progression bar based on the vanilla intel event bar
 ## More features to come, recommendations for features are welcome!

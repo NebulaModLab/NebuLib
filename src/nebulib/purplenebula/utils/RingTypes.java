@@ -1,4 +1,4 @@
-package com.purplenebula.nebulib.util;
+package nebulib.purplenebula.utils;
 
 public class RingTypes {
 
